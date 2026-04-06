@@ -17,35 +17,20 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 *Coming soon — skills are being added across the following departments:*
 
 ### Marketing & Revenue
-- Digital marketing campaigns
-- Social media content
-- OTA listing optimization
-- Email marketing sequences
-- Website conversion optimization
+- Weather Forecast - Marketing Campaign  
+-  GEO Agent - Grade your website
 
 ### Front Office & Guest Experience
-- Guest communication templates
-- Review response management
-- Upselling workflows
-- Check-in/check-out optimization
+
 
 ### Housekeeping & Operations
-- Room assignment optimization
-- Maintenance request workflows
-- Inventory management
-- Cleaning schedules and SOPs
+
 
 ### Revenue Management
-- Rate strategy analysis
-- Competitor benchmarking
-- Forecasting assistance
-- Channel management
+
 
 ### General Management
-- Reporting and analytics
-- Staff scheduling
-- Budget planning
-- Compliance checklists
+
 
 ## Installation
 
