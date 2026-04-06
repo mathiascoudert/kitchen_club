@@ -1,0 +1,8 @@
+{
+  "78701": { "lat": 30.2672, "lng": -97.7431, "city": "Austin", "state": "TX" },
+  "77001": { "lat": 29.7604, "lng": -95.3698, "city": "Houston", "state": "TX" },
+  "10001": { "lat": 40.7484, "lng": -73.9967, "city": "New York", "state": "NY" },
+  "11201": { "lat": 40.6944, "lng": -73.9907, "city": "Brooklyn", "state": "NY" },
+  "94102": { "lat": 37.7791, "lng": -122.4193, "city": "San Francisco", "state": "CA" },
+  "33101": { "lat": 25.7617, "lng": -80.1918, "city": "Miami", "state": "FL" }
+}
