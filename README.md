@@ -6,9 +6,7 @@ These skills currently run on [Claude Code](https://docs.anthropic.com/en/docs/c
 
 New to Claude Code? Check out this [short intro](#getting-started). But honestly, the best way to learn with agentic AI is to just ask questions. Every time you're not sure about something, type it in the chat — Claude will have an answer.
 
-**Contributions welcome!** Found a way to improve a skill or have a new one to add? [Open a PR](#contributing).
-
-Run into a problem or have a question? [Open an issue](https://github.com/mathiascoudert/kitchen_club/issues) — I'm happy to help.
+**Contributions welcome!** Found a way to improve a skill or have a new one to add, Run into a problem or have a question? [Open an issue](https://github.com/mathiascoudert/kitchen_club/issues) — I'm happy to help.
 
 ## What are Skills?
 
