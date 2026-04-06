@@ -16,7 +16,7 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 
 | Skill | Description |
 |-------|-------------|
-| [geo-audit](skills/geo-audit/) | Analyze your hotel website's readiness for AI search engines (ChatGPT, Claude, Perplexity, Google AI Overviews). Get a scored report with prioritized recommendations. |
+| [GEO Agent](skills/Marketing/GEO-Agent/) | Analyze your hotel website's readiness for AI search engines (ChatGPT, Claude, Perplexity, Google AI Overviews). Get a scored report with prioritized recommendations. |
 
 ### Roadmap
 
