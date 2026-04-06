@@ -17,6 +17,7 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | Skill | Description |
 |-------|-------------|
 | [GEO Agent](skills/Marketing/GEO-Agent/) | Analyze your hotel website's readiness for AI search engines (ChatGPT, Claude, Perplexity, Google AI Overviews). Get a scored report with prioritized recommendations. |
+| [Sunny Weather Agent](skills/Marketing/sunny-weather-agent/) | Generate a weekend marketing email for your hotel. Fetches weather forecast and local activities, optionally pulls nearby past guests from Mews PMS. Outputs a ready-to-use HTML email and CSV guest list for import into any email platform. |
 
 ### Roadmap
 
