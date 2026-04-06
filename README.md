@@ -14,23 +14,23 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 
 ## Available Skills
 
-*Coming soon — skills are being added across the following departments:*
+| Skill | Description |
+|-------|-------------|
+| [geo-audit](skills/geo-audit/) | Analyze your hotel website's readiness for AI search engines (ChatGPT, Claude, Perplexity, Google AI Overviews). Get a scored report with prioritized recommendations. |
 
-### Marketing & Revenue
-- Weather Forecast - Marketing Campaign  
--  GEO Agent - Grade your website
+### Roadmap
 
-### Front Office & Guest Experience
+More skills are being added across the following departments:
 
+**Marketing & Revenue** — Weather forecast marketing campaigns, GEO/AEO website grading, digital marketing campaigns, social media content, OTA listing optimization, email marketing sequences, website conversion optimization
 
-### Housekeeping & Operations
+**Front Office & Guest Experience** — Guest communication templates, review response management, upselling workflows, check-in/check-out optimization
 
+**Housekeeping & Operations** — Room assignment optimization, maintenance request workflows, inventory management, cleaning schedules and SOPs
 
-### Revenue Management
+**Revenue Management** — Rate strategy analysis, competitor benchmarking, forecasting assistance, channel management
 
-
-### General Management
-
+**General Management** — Reporting and analytics, staff scheduling, budget planning, compliance checklists
 
 ## Installation
 
