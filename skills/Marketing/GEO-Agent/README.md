@@ -26,29 +26,20 @@ You get an overall score (0-100), per-category breakdowns, and prioritized recom
 
 ## Quick Start
 
-### 1. Install
+### 1. Install the Agent Skill
 
-Copy the `geo-audit` folder into your Claude Code skills directory:
+Install the agent skill to get AI-powered website audits for GEO/AEO readiness.
 
-```bash
-cp -r skills/geo-audit ~/.claude/skills/
 ```
-
-Or use the CLI installer:
-
-```bash
 npx skills add mathiascoudert/kitchen_club --skill geo-audit
 ```
 
-### 2. Run
+### 2. Run an Audit
 
-```bash
-# Pass a URL directly
+Then run an audit in Claude Code:
+
+```
 /geo-audit https://yourhotel.com
-
-# Or set it in a .env file
-echo "WEBSITE_URL=https://yourhotel.com" > .env
-/geo-audit
 ```
 
 ### 3. Read Your Report
